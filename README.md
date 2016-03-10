@@ -1,11 +1,11 @@
-# React-veact
+# React-General
 
-A testing and learning ground for everything to do with `React`, `Flux` etc.
+some ground things
 
 ##Getting started
 
-* Clone the repo `git clone git@github.com:manoj-nama/react-veact.git`
-* `cd react-veact`
+* Clone the repo `git clone git@github.com:iamlalit/react-general.git`
+* `cd react-general`
 * `npm install`
 * `grunt build` to compile the `react files`
 * `npm start` and navigate to `localhost:8888` from your browser
